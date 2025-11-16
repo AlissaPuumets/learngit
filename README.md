@@ -2,9 +2,7 @@
 Feature line 1
 Main line 1
 Feature line 2
-<<<<<<< Updated upstream
 Feature line 3
-=======
 Main line 2
 Feature line 3
 Feature line 4
@@ -12,4 +10,4 @@ Fuckture line 5
 Feature line 6
 Feature line 7
 Feature line 8
->>>>>>> Stashed changes
+Feature line 9
